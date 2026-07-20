@@ -1,4 +1,4 @@
-# Hi, I'm Niwadee 👋
+# Hi, I'm Niwa 👋
 After 10+ years in overseas sales at an automotive manufacturing company, I became more interested in understanding the numbers behind daily business decisions — from quotations and costs to production-related information. This curiosity led me to start building my skills in Business Analytics.
 
 ## About Me
