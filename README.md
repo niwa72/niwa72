@@ -4,11 +4,15 @@ After 10+ years in overseas sales at an automotive manufacturing company, I beca
 
 That curiosity led me to start building my skills in Business Analytics and explore how data can be used to better understand business problems and support decision-making.
 
+---
+
 ## About Me
 
 I'm currently developing my skills in SQL, Tableau, and Python, with a focus on Business Analytics, Sales Operations, and Business Planning.
 
 Coming from a business background rather than a traditional data or engineering role, I'm particularly interested in connecting data analysis with real business questions — understanding what the numbers are telling us and what we should do next.
+
+---
 
 ## Portfolio Projects
 
@@ -30,10 +34,19 @@ The project explores margin differences across products, investigates potential 
 
 🔗 [Project Repository](https://github.com/niwa72/mass-production-part-cost-margin-review)
 
+---
+
 ## Skills
 
-SQL · Tableau · Excel · Python · Business Analysis · AI-assisted analytical workflows
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
+
+Business Analysis · AI-assisted analytical workflows
+
+---
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/niwadee/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niwadee/)
