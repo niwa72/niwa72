@@ -12,7 +12,9 @@ That led me to start building my skills in SQL, Python, Tableau, and business an
 
 I'm currently developing my analytical skills with a focus on **Business Analytics, Commercial Operations, Sales Operations, and Business Planning**.
 
-My background is in business rather than data engineering, so I'm most interested in analysis that connects directly to business decisions.
+My background is in business and automotive manufacturing, and I'm interested in using data to better understand business problems and support decision-making.
+
+I focus on understanding what is driving the result, whether the comparison is fair, what additional checks are needed, and what the business should consider doing next.
 
 For me, the goal is not only to produce a dashboard or calculate a metric, but to understand:
 
