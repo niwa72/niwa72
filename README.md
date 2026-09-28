@@ -1,36 +1,67 @@
 # Hi, I'm Niwa 👋
 
-After 10+ years in overseas sales at an automotive manufacturing company, I became increasingly interested in the numbers behind everyday business decisions — from quotations and costs to production-related data.
+I have 10+ years of experience in overseas sales in the automotive manufacturing industry, working across quotations, pricing, cost discussions, production coordination, and overseas operations.
 
-That curiosity led me to start building my skills in Business Analytics and explore how data can be used to better understand business problems and support decision-making.
+Over time, I became more interested in the numbers behind those decisions — why margins change, where costs come from, how demand affects production, and what the data can tell us before making a business decision.
+
+That led me to start building my skills in SQL, Python, Tableau, and business analytics.
 
 ---
 
 ## About Me
 
-I'm currently developing my skills in SQL, Tableau, and Python, with a focus on Business Analytics, Sales Operations, and Business Planning.
+I'm currently developing my analytical skills with a focus on **Business Analytics, Commercial Operations, Sales Operations, and Business Planning**.
 
-Coming from a business background rather than a traditional data or engineering role, I'm particularly interested in connecting data analysis with real business questions — understanding what the numbers are telling us and what we should do next.
+My background is in business rather than data engineering, so I'm most interested in analysis that connects directly to business decisions.
+
+For me, the goal is not only to produce a dashboard or calculate a metric, but to understand:
+
+- what is driving the result
+- whether the comparison is actually fair
+- what additional checks are needed
+- what the business should consider doing next
 
 ---
 
 ## Portfolio Projects
 
+### 📊 Category Opportunity Assessment — Shopee Thailand
+
+A category-level business analysis project using MySQL and Tableau to identify which product categories show the strongest signals for further cross-border opportunity assessment.
+
+The analysis compares five categories across three lenses: **demand, 180-day customer continuation, and campaign association**.
+
+Rather than forcing the categories into a single score, the project looks at what each metric can and cannot support. One important finding was that continuation rates were almost identical across categories, so they were treated as context rather than a deciding factor.
+
+The analysis ultimately highlights **Electronics and Beauty as categories worth investigating further**, while keeping the recommendation deliberately limited to platform-internal signals and calling out the need for external market, competition, logistics, and regulatory validation before any market-entry decision.
+
+🔗 [Project Repository](https://github.com/niwa72/category-opportunity-assessment)
+
+---
+
 ### 📊 Customer & Product Business Analysis — E-commerce
 
-An AI-assisted business analysis project exploring what drives customer value in an e-commerce business.
+A business analysis project using SQL, Python, and an interactive dashboard to understand what is associated with customer value in an e-commerce business.
 
-SQL is used as the core analytical layer, with Python for validation and an interactive dashboard for communicating the findings.
+The analysis looks at customer purchase frequency, category and product behavior, and seller characteristics.
 
-A key focus of the project was not simply finding patterns, but checking whether those patterns could be misleading — including testing for confounding factors before turning the findings into business recommendations.
+One of the main findings was that customers with 6+ completed orders represented about **32% of customers but generated 55.7% of realized revenue**.
+
+The project also includes cases where an initial result changed after checking the underlying data structure — for example, a large performance gap between seller groups largely disappeared after controlling for differences in catalog size.
 
 🔗 [Project Repository](https://github.com/niwa72/customer-product-business-analysis)
 
+---
+
 ### 📊 Mass Production Part Cost & Margin Review
 
-A simulated manufacturing analytics project using SQL and Tableau to analyze part profitability.
+A simulated automotive manufacturing analysis focused on profitability, production capacity, and investment prioritization.
 
-The project explores margin differences across products, investigates potential cost drivers, and identifies where cost improvement efforts could be prioritized.
+The project starts with 24 mass-production parts and identifies which parts are below the target margin, what is driving the margin gap, and whether additional in-house production capacity could improve profitability.
+
+For the five parts below target, the main issue was high outsourcing caused by insufficient internal capacity after demand increased.
+
+The analysis then models a capacity-expansion scenario and uses payback period to prioritize investment when budget is limited.
 
 🔗 [Project Repository](https://github.com/niwa72/mass-production-part-cost-margin-review)
 
@@ -43,7 +74,7 @@ The project explores margin differences across products, investigates potential 
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
 
-Business Analysis · AI-assisted analytical workflows
+**Business Analysis · Cost & Margin Analysis · Commercial Operations · Data Visualization**
 
 ---
 
